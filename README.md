@@ -30,7 +30,7 @@ Test 1:
     - Time: 2.22 m
 
 
-Test 1:
+Test 2:
 
     - Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz 
     - OS: Ubuntu 24
