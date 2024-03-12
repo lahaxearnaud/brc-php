@@ -28,3 +28,11 @@ Test 1:
     - OS: Ubuntu 22
     - PHP: PHP 8.1
     - Time: 2.22 m
+
+
+Test 1:
+
+    - Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz 
+    - OS: Ubuntu 24
+    - PHP: PHP 8.3
+    - Time: 3.38 m
